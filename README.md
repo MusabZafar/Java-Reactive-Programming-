@@ -44,7 +44,7 @@ Error Handling: Implementing strategies for handling errors in reactive streams.
 Spring WebFlux: Building non-blocking REST APIs with Spring WebFlux.
 
 ## Example: Basic Reactive Stream
-
+```bash
 import reactor.core.publisher.Mono;
 public class ReactiveExample {
     public static void main(String[] args) {
@@ -52,6 +52,7 @@ public class ReactiveExample {
             .subscribe(System.out::println);
     }
 }
+```
 In this example, we create a Mono that emits a single string and subscribe to it, printing the message to the console.
 
 ## Project Structure
