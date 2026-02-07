@@ -29,7 +29,7 @@ This repository is an excellent resource for learning how to apply the reactive 
 
 To get started with this repository, follow the steps below:
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/MusabZafar/Java-Reactive-Programming-.git
